@@ -6,7 +6,7 @@ Currently, we are accepting donations in USDC, USDT, ETH, BTC and TON.
 If you want to seed how these donations are spent check [Expenses](/finance/expenses.md)
 
 # Donnations
-| USD   | Crypto Amount  | Donnator | Description | Transaction |
+| USD   | Crypto Amount  | Donor | Description | Transaction |
 |--     |--              |--        |--           |--           |
 | **+100$**  |100 USDC   | [Mehran](https://linkedin.com/in/mehrandvd) | | [etherscan.io](https://etherscan.io)|
 | **+100$**  |100 USDC   | [Afshin](https://www.linkedin.com/in/afshinalizadehbehjati/) |  | [etherscan.io](https://etherscan.io)|
