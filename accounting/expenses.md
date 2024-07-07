@@ -1,10 +1,8 @@
-_**[This document is still in draft and the data are not real]**_
-
 # Overview
-All the expenses of CS Internship program that are being paid by CS Wallet is documented here:
+All the expenses of CS Internship program that CS Wallet is paying is documented here:
 
 # Expenses
 
 | USD | Crypto Amount | To | Description | Transaction |
 |--   |--             |--  |--           |--             |
-| **-80$** |80 USDC   | Ali Sadeghi | Accomplishment [#98](https://cs-internship/cs-system)| [etherscan.io](etherscan.io)
+| **-50$** | 50 USDC   | Ali Sadeghi | Accomplishment CS-System Issue [#50](https://github.com/cs-internship/cs-system/issues/50)| [etherscan.io](https://etherscan.io/tx/0x2b36df90befd4877699025f006972cabb5df3d400b740ac9c5f8fd2ecefbbd6c)
