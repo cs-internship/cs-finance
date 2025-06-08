@@ -1,6 +1,5 @@
 # Overview
-All the expenses of CS Internship program that CS Wallet is paying is documented here:
-
+All the expenses covered by CS Wallet for the CS Internship program are documented here:
 # Expenses
 
 | USD | Crypto Amount | To | Description | Transaction |
