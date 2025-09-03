@@ -10,5 +10,6 @@ All the expenses covered by CS Wallet for the CS Internship program are document
 | **-10$** | 10 USDC   | Hootan Hemmati | CS-System Issue [#58](https://github.com/cs-internship/cs-system/issues/58)| [etherscan.io](https://etherscan.io/tx/0x748f6c1f7710b96f715cc42bf03f25a1205c5e59af9167aefc8d7e07fea2ab24)
 | **-5$** | 5 USDC   | Zahra Rezaei | CS-System Issue [#61](https://github.com/cs-internship/cs-system/issues/61)| [etherscan.io](https://etherscan.io/tx/0xc985ad88357ab7d47c953b4a0f2cc436faa71f518dead78e51de6d9afd850528)
 | **-59$** | 59 USDC   | Maha Mohammadi | CS-System Issue [#71](https://github.com/cs-internship/cs-system/issues/71)| [etherscan.io](https://etherscan.io/tx/0x8f4b27f1d481b6694335e80c502b7f9748e478e7ad689b57d127d235c5637aa0)
+| **-159$** | 159 USDC   | Maha Mohammadi | CS-System Issue [#73](https://github.com/cs-internship/cs-system/issues/73)| [etherscan.io](https://etherscan.io/tx/0x6c97d9ef79fca55bab4acd597a9b7559edeb0334a6d6f86042180f8dfcf697f8)
 
 
